@@ -24,10 +24,10 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
-    "/news": [
+    "/news/[somethingid]": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/news.js"
+      "static/chunks/pages/news/[somethingid].js"
     ]
   },
   "ampFirstPages": []
