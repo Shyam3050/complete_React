@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/922.4d585368.chunk.js","mappings":"oJAGA,UAHiB,WACf,OAAO,gBAAKA,UAAU,WAAU,+BAClC,C","sources":["pages/NotFound.js"],"sourcesContent":["const NotFound = () => {\r\n  return <div className=\"centered\">404 page Not Found</div>;\r\n};\r\nexport default NotFound;\r\n"],"names":["className"],"sourceRoot":""}

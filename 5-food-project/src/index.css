@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+html {
+  font-family: sans-serif;
+  background: rgb(46, 46, 46);
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  margin-top: 6rem;
+}

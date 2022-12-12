@@ -1,0 +1,10 @@
+li {
+  font-size: 1.2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgb(133, 133, 133);
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    
+  }

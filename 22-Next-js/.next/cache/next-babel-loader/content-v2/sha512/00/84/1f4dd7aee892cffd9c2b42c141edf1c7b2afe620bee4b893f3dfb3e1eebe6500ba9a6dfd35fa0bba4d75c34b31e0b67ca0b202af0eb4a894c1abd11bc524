@@ -1,0 +1,1 @@
+{"ast":null,"code":"function HomePage() {}","map":{"version":3,"sources":["D:/React/22-Next-js/pages/index.js"],"names":["HomePage"],"mappings":"AAAA,SAASA,QAAT,GAAmB,CAElB","sourcesContent":["function HomePage(){\n  \n}"]},"metadata":{},"sourceType":"script"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"function HomePage() {\n  return;\n}\n\n_c = HomePage;\n\nvar _c;\n\n$RefreshReg$(_c, \"HomePage\");","map":{"version":3,"sources":["D:/React/22-Next-js/pages/index.js"],"names":["HomePage"],"mappings":"AAAA,SAASA,QAAT,GAAmB;AACjB;AACD;;KAFQA,Q","sourcesContent":["function HomePage(){\n  return \n}"]},"metadata":{},"sourceType":"script"}

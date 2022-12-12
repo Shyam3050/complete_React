@@ -1,0 +1,6 @@
+here my total expense like 200;
+then jan = 20;
+then jan / total * 100 + "%";
+
+// in this expense tracker i will see how my total expense 
+spend on entire year.
